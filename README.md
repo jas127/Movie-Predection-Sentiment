@@ -59,7 +59,7 @@ The project utilizes data derived from IMDb:
   - Overall accuracy around 85%.  
   - Positive reviews tend to score around +0.8; negative reviews cluster near –0.5.  
   - Slight bias toward false negatives suggests threshold tuning could improve balance.
-
+    
 ## Project Structure
 
 ├── movie-revenue-prediction/ 
