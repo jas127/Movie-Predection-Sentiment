@@ -62,7 +62,13 @@ The project utilizes data derived from IMDb:
 
 ## Project Structure
 
-. ├── movie-revenue-prediction/ ├── review-sentiment-analysis/ ├── README.md ├── movie-genre.pdf ├── movie-revenue.pdf ├── movie-review.pdf └── project-report.pdf
+├── movie-revenue-prediction/ 
+├── review-sentiment-analysis/ 
+├── README.md 
+├── movie-genre.pdf 
+├── movie-revenue.pdf 
+├── movie-review.pdf 
+└── project-report.pdf
 
 *   `movie-revenue-prediction/`: Contains code and notebooks related to box office revenue prediction.
 *   `review-sentiment-analysis/`: Contains code and notebooks related to movie review sentiment analysis.
